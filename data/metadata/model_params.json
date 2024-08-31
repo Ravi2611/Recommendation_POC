@@ -1,0 +1,1 @@
+{"X": ["SepalLengthCm", "SepalWidthCm", "PetalLengthCm", "PetalWidthCm"], "y": "Species", "pred_type": "Classification"}

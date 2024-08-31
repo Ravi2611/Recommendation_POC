@@ -1,0 +1,7 @@
+column_name,type
+Id,numerical
+SepalLengthCm,numerical
+SepalWidthCm,numerical
+PetalLengthCm,numerical
+PetalWidthCm,numerical
+Species,categorical

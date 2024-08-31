@@ -1,0 +1,11 @@
+.linux_env
+# Virtual environments
+env/
+sap/
+__pycache__/
+pages/__pycache__/
+venv/
+env/
+ENV/
+.venv/
+.DS_Store
